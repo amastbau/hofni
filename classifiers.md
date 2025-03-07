@@ -65,7 +65,7 @@ This document provides a structured reference for classifying logs related to Ve
 
 ---
 
-### 5. unknown
+### 5. velero-pod-secret-mount
 - **Text Example:**
   ```
   2025/02/16 19:10:22 pod: velero-67c98477b5-mgp9m is not yet running with status: {Pending}
