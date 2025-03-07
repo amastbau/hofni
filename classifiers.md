@@ -171,6 +171,23 @@ This document provides a structured reference for classifying logs related to Ve
   - "ansible/roles/<app-name>" (Dynamically Extracted)
   - Example: "ocp-todolist-mongodb-block-deploy"
 
+### 14 backup-verification
+
+STEP: Verify backup test-oadp-609-datamover-40bcd668-ec96-11ef-b86d-0a58ac1107ce has completed successfully
+..
+..
+..
+STEP: Get the failed spec name
+
+### 15 backup-verification
+
+
+
+
+ 
+  
+  
+
 ---
 
 ## Conclusion
